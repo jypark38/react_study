@@ -1,0 +1,7 @@
+npm install --save-dev @babel/core
+npm install --save-dev @bable/cli
+npm install --save-dev @bable/preset-react
+--save-dev : 개발모드
+
+npm ERR! code EACCES
+이 에러가 나왔는데 sudo npm install 로 했더니 해결 됨
